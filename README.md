@@ -1,6 +1,6 @@
 # My Development Portfolio
 
-This repository contains a collection of my coding projects and checkpoints.
+This repository contains a collection of my coding projects and checkpoints while learning Full Stack JS at GOMYCODE .
 
 ## Project Gallery
 
